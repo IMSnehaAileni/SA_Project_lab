@@ -1,0 +1,3 @@
+hello
+third line
+test in file 3
